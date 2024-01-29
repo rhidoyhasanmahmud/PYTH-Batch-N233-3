@@ -9,3 +9,4 @@ eShikhon: PYTH-Batch-N233-3
 3. git commit -m "CommitMessage"
 4. git clone url / git clone url .
 5. git push origin brancName [main]
+6. git pull origin brancName [main]
